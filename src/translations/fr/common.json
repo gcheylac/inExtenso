@@ -1,0 +1,22 @@
+{
+    "home":{
+        "bienvenue": "Bienvenue",
+        "text1": "Ce projet regroupe les 2 tests de développement :",
+        "algo" :"- Algo : fizzbuzz",
+        "frontEnd":"- FrontEnd : checkboxes",
+        "text2": "Je vous souhaite une bonne analyse du code, et me tiens à votre disposition pour faire un debrief de celui-ci"
+    },
+    "frontEnd":{
+        "checkBoxAll": "Sélectionner/ Déselectionner tout",
+        "checkBox1": "Case à cocher 1",
+        "checkBox2": "Case à cocher 2",
+        "checkBox3": "Case à cocher 3",
+        "checkBox4": "Case à cocher 4"
+    },
+    "algo":{
+        "selectNb": "Saisir un nombre",
+        "valider": "Valider",
+        "nombre": "Nombre",
+        "resultat": "Résultat"
+    }
+}

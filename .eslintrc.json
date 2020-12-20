@@ -1,0 +1,27 @@
+{
+    "root": true,
+    "reportUnusedDisableDirectives": true,
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2017": true,
+        "jest": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "parser": "babel-eslint",
+    "plugins": [
+        "eslint-plugin-jest",
+        "eslint-plugin-react"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 8,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    }
+}
